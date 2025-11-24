@@ -1,5 +1,5 @@
 
-# Nektar Alcohol Database <img src="assets/logo.png" alt="Nektar Logo" width="200">
+# Nektar Alcohol Database <img src="logo.png" alt="Nektar Logo" width="200">
 
 The Nektar Alcohol Database is a curated image database of alcohol-related and neutral cues with ratings of **valence** and **craving**.  
 The dataset contains **730 images** across the following main categories:
