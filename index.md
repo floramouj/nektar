@@ -17,7 +17,7 @@ This page provides access to:
 
 - **Ratings & metadata (CSV):** [`nektar_image_ratings.csv`](./nektar_image_ratings.csv)
 
-- **All images (ZIP):** [Download image archive](https://github.com/floramouj/nektar/releases/download/v1.0.0/nektar_images.zip)
+- **All images (ZIP):** [nektar_images.zip](https://github.com/floramouj/nektar/releases/download/v1.0.0/nektar_images.zip)
 
 
 ## Images
