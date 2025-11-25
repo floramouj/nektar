@@ -4,5 +4,5 @@ The Nektar Alcohol Database is a free, open-access collection of 730 images — 
 
 This page provides access to:
 
--the image-level craving and valence ratings (M and SD) and metadata (CSV)
+-the image-level craving and valence ratings (M and SD) and metadata (CSV)  
 -the image files (ZIP archive)
