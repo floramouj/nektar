@@ -20,7 +20,7 @@ This page provides access to:
   [`nektar_image_ratings.csv`](./nektar_image_ratings.csv)
 
 - 🖼️ **All images (ZIP)**  
-  👉 [Download image archive]([PASTE_ZIP_LINK_HERE](https://github.com/floramouj/nektar/releases/download/v1.0.0/nektar_images.zip))
+  👉 [Download image archive](https://github.com/floramouj/nektar/releases/download/v1.0.0/nektar_images.zip)
 
 
 ---
