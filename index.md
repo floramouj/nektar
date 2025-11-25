@@ -70,10 +70,10 @@ Please contact us for any questions (etna.engeli@bli.uzh.ch, flora.moujaes@bli.u
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
 
   <!-- Left logo -->
-  <img src="uzh-logo.png" alt="Left Logo" style="height: 70px;">
+  <img src="uzh-logo.jpg" alt="Left Logo" style="height: 100px;">
 
   <!-- Right logo -->
-  <img src="img_LeapLogoParticles.png" alt="Right Logo" style="height: 70px;">
+  <img src="img_LeapLogoParticles.png" alt="Right Logo" style="height: 100px;">
 
 </div>
 
