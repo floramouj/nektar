@@ -67,11 +67,11 @@ Please contact us for any questions (etna.engeli@bli.uzh.ch, flora.moujaes@bli.u
 
 
 <div align="center">
-  <img src="img_LeapLogoParticles.png" alt="leap" width="300">
+  <img src="img_LeapLogoParticles.png" alt="leap" width="200">
 </div>
 
 
 <div align="center">
-  <img src="uzh_logo_svg" alt="uzh" width="120">
+  <img src="uzh_logo_svg" alt="uzh" width="200">
 </div>
 
