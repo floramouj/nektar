@@ -15,14 +15,10 @@ This page provides access to:
 
 ## 🔗 Downloads
 
-- 📄 **Ratings & metadata (CSV)**  
-  [`nektar_image_ratings.csv`](./nektar_image_ratings.csv)
+- **Ratings & metadata (CSV):** [`nektar_image_ratings.csv`](./nektar_image_ratings.csv)
 
-- 🖼️ **All images (ZIP)**  
-  👉 [Download image archive](https://github.com/floramouj/nektar/releases/download/v1.0.0/nektar_images.zip)
+- **All images (ZIP):** [Download image archive](https://github.com/floramouj/nektar/releases/download/v1.0.0/nektar_images.zip)
 
-
-# Further Details
 
 ## Images
 
