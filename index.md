@@ -66,7 +66,7 @@ Nektar Alcohol Database images were rated by 324 alcohol drinkers (M age = 29.6 
 # Reference
 More detailed information on image ratings and image-evoked brain activity is described in our forthcoming paper:
 
-Moujaes, F.†, Engeli, E. E.†, et al. (under review). *A validated alcohol-cue stimulus bank for alcohol use disorder: Personalized fMRI craving modeling converges on the anterior cingulate cortex.*
+Moujaes, F.†, Engeli, E. E.†, et al. (under review). *A validated alcohol-cue stimulus bank for alcohol use disorder: Personalized fMRI craving modeling converges on the anterior cingulate cortex.*  
 †Joint first authors.
 
 A link to the published article will be added once available. The Nektar Alcohol Database is already accessible. 
