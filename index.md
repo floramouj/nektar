@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img src="logo.png" alt="Nektar Logo" width="150">
-</div>
+
 
 # Nektar Alcohol Database 
 
@@ -65,11 +63,6 @@ A link to the published article will be added once available. The Nektar Alcohol
 ## Contact 
 Please contact us for any questions (etna.engeli@bli.uzh.ch, flora.moujaes@bli.uzh.ch). Further, we are happy to include any additional ratings from your own studies in the here presented overall ratings.
 
-
-<div align="center">
-  <img src="Presentation1.png" alt="Nektar Logo2" width="150">
-</div>
- 
 
 
 
