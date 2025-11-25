@@ -71,7 +71,7 @@ Please contact us for any questions (etna.engeli@bli.uzh.ch, flora.moujaes@bli.u
 
 <!-- LEFT LOGO -->
 <div style="float: left; margin-top: 20px;">
-  <img src="uzh-logo.jpg" alt="Left Logo" style="height: 100px;">
+  <img src="uzh_logo.svg" alt="Left Logo" style="height: 100px;">
 </div>
 
 <!-- RIGHT LOGO -->
