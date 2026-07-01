@@ -5,7 +5,7 @@
 
 # Nektar Alcohol Database 
 
-The Nektar Alcohol Database is a free, open-access collection of **730 images** — 679 alcohol-related and 51 neutral. All images were sourced from open, free-to-use photo repositories (Creative Commons licenses) and selected to represent a broad range of alcohol-associated content. Images are categorized by alcohol type (e.g., wine, beer, spirits) and further subdivided by context, such as social settings, food pairings, pouring scenes, and branding. The database has been rated, tested, and validated by **324 alcohol-using participants**, each of whom evaluated a subset of images tailored to their preferred alcohol type. These ratings show that the Nektar stimuli span a wide continuum on the dimensions of **craving** and **valence**, capturing both low- and high-intensity responses. Because of this broad intensity range, the Nektar Alcohol Database is particularly well suited for studies investigating cue-induced behavior, craving, and neural responses across a large dynamic spectrum.
+The Nektar Alcohol Database is a free, open-access collection of **728 images** — 677 unique alcohol-related and 51 neutral. All images were sourced from open, free-to-use photo repositories (Creative Commons licenses) and selected to represent a broad range of alcohol-associated content. Images are categorized by alcohol type (e.g., wine, beer, spirits) and further subdivided by context, such as social settings, food pairings, pouring scenes, and branding. The database has been rated, tested, and validated by **324 alcohol-using participants**, each of whom evaluated a subset of images tailored to their preferred alcohol type. These ratings show that the Nektar stimuli span a wide continuum on the dimensions of **craving** and **valence**, capturing both low- and high-intensity responses. Because of this broad intensity range, the Nektar Alcohol Database is particularly well suited for studies investigating cue-induced behavior, craving, and neural responses across a large dynamic spectrum.
 
 This page provides access to:
 
@@ -24,15 +24,17 @@ This page provides access to:
 ## Images
 
 The Nektar Alcohol Database is a curated image database of alcohol-related and neutral cues with ratings of **craving** and **valence**.  
-The dataset contains **730 images** across the following main categories:
+The dataset contains **728 images** across the following main categories:
 
 ```
 beer              (n = 205)  
 wine              (n = 192)  
-spirits           (n = 195)  
+spirits           (n = 194)  
 general_alcohol   (n = 87)  
 neutral           (n = 51)  
 ```
+<em>One image, depicting a beverage in a glass with visual features consistent with both spirits and wine, was included in both category counts (485_spirits.jpg and 674_wine.jpg).</em>
+
 Alcohol images were also qualitatively assigned to the following distinct content categories:  
 ```
 social_setting          (n = 131)  
@@ -44,7 +46,7 @@ food_setting            (n = 58)
 people_drinking         (n = 54)  
 closeup                 (n = 41)  
 opening_drink           (n = 30)  
-smoking_context         (n = 29)  
+smoking_context         (n = 28)  
 social_food             (n = 28)  
 drinking_setting        (n = 21)  
 cocktail_preparation    (n = 15)  
